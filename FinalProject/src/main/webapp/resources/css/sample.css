@@ -1,0 +1,9 @@
+body{
+	background-image: url("bg.jpg");
+	 background-repeat: no-repeat;
+  background-size: 100% 125%;
+	 height: 360px;
+  width: 70%;
+  color:#F0F3F4 ;
+font-size:20px
+}
